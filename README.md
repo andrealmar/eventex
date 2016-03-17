@@ -1,6 +1,10 @@
 # EVENTEX
 Eventex is an Event Manager Web App 
 
+[![Code Health](https://landscape.io/github/andrealmar/eventex/master/landscape.svg?style=flat)](https://landscape.io/github/andrealmar/eventex/master)
+
+[![Build Status](https://travis-ci.org/andrealmar/eventex.svg?branch=master)](https://travis-ci.org/andrealmar/eventex)
+
 ## How to get your hands dirty on the code
 
 1. Clone this repo
