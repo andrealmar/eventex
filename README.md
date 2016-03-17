@@ -10,6 +10,17 @@ Eventex is an Event Manager Web App
 5. Configure your instance with .env 
 6. Execute the tests (python manage.py test)
 
+
+```
+git clone https://github.com/andrealmar/eventex.git wttd
+cd wttd
+python -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+cp contrib/env-sample .env
+python manage.py test
+```
+
 ## How to make a deploy
 
 1. Create a Heroku instance (heroku create instancename)
