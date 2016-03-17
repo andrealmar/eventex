@@ -1,16 +1,16 @@
-# eventex
+# EVENTEX
 Eventex is an Event Manager Web App 
 
-# How to get your hands dirty on the code
+## How to get your hands dirty on the code
 
-1. Fork this repo
+1. Clone this repo
 2. Create a virtualenv with Python 3.5 (virtualenv .venv)
 3. Activate virtualenv (source .venv/bin/activate)
 4. Install the dependencies (pip install -r requirements.txt)
 5. Configure your instance with .env 
 6. Execute the tests (python manage.py test)
 
-# How to make a deploy
+## How to make a deploy
 
 1. Create a Heroku instance (heroku create instancename)
 2. Send the configs to Heroku (heroku config:push)
